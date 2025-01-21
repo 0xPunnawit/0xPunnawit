@@ -35,8 +35,3 @@
 </p>
 
 ---
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height
