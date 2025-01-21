@@ -2,12 +2,6 @@
 
 ---
 
-🌍 **Location:** Thailand  
-📚 **Currently Learning:** Cybersecurity, Web Development (Node.js, Java Spring Boot)  
-💡 **Interests:** Backend Development, Database Management, Web Security  
-
----
-
 ### 🚀 Tech Stack
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
