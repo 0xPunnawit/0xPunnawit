@@ -36,6 +36,3 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/0xPunnawit/0xPunnawit/output/snake.svg" alt="Snake animation" />
-
-###
